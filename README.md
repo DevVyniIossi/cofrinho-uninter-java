@@ -26,6 +26,7 @@ A classe Cofrinho deve possuir como atributo uma coleção de Moedas, que por su
 
  
 ![image](https://user-images.githubusercontent.com/100815122/231031953-91b38fc2-8867-4026-9a5b-5764cc304cf2.png)
+
 Demais detalhes de implementação ficam a cargo do aluno que pode desenvolver também classes extras ou adicionar métodos e atributos conforme julgar necessário.
 
 *Conteúdos abordados: **ao longo de todas as aulas.***
