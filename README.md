@@ -51,4 +51,4 @@ A Atividade Prática de Linguagem de Programação recomenda-se a utilização d
 
 - Concluído - nota: 100✔️
 
-  ![nota](C:\Users\Usuario\Downloads\nota.jpg)
+  ![nota](https://user-images.githubusercontent.com/100815122/231031846-809cb974-45e9-4580-8301-cdc1fcd14766.jpg)
